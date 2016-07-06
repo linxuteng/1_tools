@@ -62,4 +62,3 @@ if __name__ == '__main__':
     development.giveRaises(0.10)
     development.showAll()
     print(development)
-    print(12)
