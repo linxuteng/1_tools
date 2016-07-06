@@ -62,3 +62,12 @@ if __name__ == '__main__':
     development.giveRaises(0.10)
     development.showAll()
     print(development)
+
+
+
+
+    development = Department(bob,sue)
+    development.addMember(tom)
+    development.giveRaises(0.10)
+    development.showAll()
+    print(development)
