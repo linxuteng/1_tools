@@ -63,10 +63,3 @@ if __name__ == '__main__':
     development.showAll()
     print(development)
 
-
-
-
-    development = Department(bob,sue)
-    development.addMember(tom)
-    development.showAll()
-    print(development)
